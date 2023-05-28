@@ -1,0 +1,7 @@
+services:
+  jd:
+    build: ./
+    env_file: ./.env
+    volumes:
+      - "$DOWNLOADS:/app/Downloads"
+
