@@ -27,3 +27,4 @@ DOWNLOADS=<download-path>
 ```
 docker compose up
 ```
+2. Go to https://my.jdownloader.org/ and login to your account. A download server under the name `app` should appear which is your machine
